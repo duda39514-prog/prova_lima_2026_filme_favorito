@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('how.jpg');
+    background-size: cover;
+    
+}
+
+.titulo {
+    margin: 50px;
+    font-family: 'Edwardian Script ITC', Courier, monospace;
+    font-size: 90px;
+    color: rgb(10, 90, 144);
+}
+
+#conteudo {
+    display: flex;
+    background-color: rgb(149, 191, 255);
+    margin: 20px 190px;
+    padding: 200px;
+    border-radius: 10px;
+}
+
+#sinopse {
+    width: 300px;     
+    margin: auto 5px;   
+    padding: 30px;      
+    background-color: #ff8dd7; 
+    border-radius: 8px;      
+    text-align: center;   
+    color: #f7f7f7;         
+    font-size: 35px;
+    font-family: 'Edwardian Script ITC', Courier, monospace;
+}
+
+#imagem {
+    position: relative;
+    background-image: url('how.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 350px;               
+    margin: 20px;       
+    padding: 20px;          
+    border-radius: 12px;
+    box-shadow: #b45e96;
+}
+
+#sinopse2 {
+    background-color: #7c9cfc;
+    border-radius: 20px;
+}
+#sinopse3 {
+    background-color: #7c9cfc;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 20px;
+}
+
+
+button {
+
+    background: rgb(86, 176, 255);
+
+    color: rgb(255, 244, 85);
+
+    border: none;
+
+    padding: 10px;
+
+    border-radius: 4px;
+
+    cursor: pointer;
+
+    transition: background 0.3s ease, color 0.3s ease, transform 3s ease-in;
+
+}
+
+
+
+button:hover {
+
+    background: rgb(77, 49, 186);
+
+    color: rgb(253, 252, 252);
+
+}
+
+#imagem2 {
+    position: relative;
+    background-image: url('flores.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 350px;              
+    height: 250px; 
+    margin: 20px;       
+    padding: 20px;          
+    border-radius: 12px;
+}
+
+#trailer{
+    width: 300px;
+    height: 200px;
+}
