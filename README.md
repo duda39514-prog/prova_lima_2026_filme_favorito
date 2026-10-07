@@ -72,3 +72,7 @@ body {
 
 ## Prints do site:
 
+![print1](./print1)
+![print2](./print2)
+![print3](./print3)
+![print4](./print4)
