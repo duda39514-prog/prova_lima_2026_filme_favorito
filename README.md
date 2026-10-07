@@ -38,3 +38,37 @@
             </div>
 ```
 
+## Amostras do Site em CSS: 
+```
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('castelo.jpg');
+    background-size: 100%;
+    background-color: #f0f6ff;
+    font-family: '', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    line-height: 1.6;
+}
+
+.barra {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #084975;
+    padding: 15px 30px;
+}
+
+.logo {
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+}
+```
+
+## Prints do site:
+
