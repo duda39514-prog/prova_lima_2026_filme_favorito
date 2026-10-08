@@ -7,7 +7,7 @@
 - HTML
 - CSS
 
-## Amostras do Site em HTML: 
+## Partes do Site em HTML: 
 ```
 <!DOCTYPE html>
 <html lang="pt-BR">
@@ -38,7 +38,7 @@
             </div>
 ```
 
-## Amostras do Site em CSS: 
+## Partes do Site em CSS: 
 ```
 * {
     margin: 0;
@@ -72,7 +72,6 @@ body {
 
 ## Prints do site:
 
-![print1](./print1)
 ![print2](./print2)
 ![print3](./print3)
 ![print4](./print4)
